@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-09T13:08:02.450Z",
+  "updated_at": "2026-05-14T13:29:26.598Z",
   "source_org_count": 184,
-  "total_issues": 50,
+  "total_issues": 48,
   "issues": [
     {
       "org": "AFLplusplus",
@@ -17,7 +17,7 @@
       ],
       "comments": 6,
       "created_at": "2022-10-06T02:10:29Z",
-      "updated_at": "2026-02-19T11:26:32Z",
+      "updated_at": "2026-05-13T14:12:12Z",
       "language": null
     },
     {
@@ -73,19 +73,17 @@
       "org": "AnkiDroid",
       "github": "ankidroid/Anki-Android",
       "logo": "https://avatars.githubusercontent.com/ankidroid",
-      "title": "Update to net.mikehardy:google-analytics-java:2.0.11 (needs minSdkVersion >= 24)",
-      "url": "https://github.com/ankidroid/Anki-Android/issues/7056",
+      "title": "Translation sync: improve result when no Pull Request is necessary",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/20853",
       "repo": "ankidroid/Anki-Android",
       "labels": [
-        "Priority-Low",
+        "Help Wanted",
         "Good First Issue",
-        "Keep Open",
-        "Dev",
-        "Analytics"
+        "Dev"
       ],
-      "comments": 10,
-      "created_at": "2020-09-10T15:26:28Z",
-      "updated_at": "2026-04-30T14:58:24Z",
+      "comments": 4,
+      "created_at": "2026-04-25T10:30:33Z",
+      "updated_at": "2026-04-29T10:33:27Z",
       "language": null
     },
     {
@@ -185,22 +183,19 @@
       "language": null
     },
     {
-      "org": "C2SI",
-      "github": "c2siorg",
-      "logo": "https://avatars.githubusercontent.com/c2siorg",
-      "title": "Missing Alt Text on Images Causing Accessibility Issues",
-      "url": "https://github.com/c2siorg/Codelabz/issues/310",
-      "repo": "c2siorg/Codelabz",
+      "org": "cBioPortal for Cancer Genomics",
+      "github": "cBioPortal/cbioportal",
+      "logo": "https://avatars.githubusercontent.com/cBioPortal",
+      "title": "Study View genes input allows OQL, but not OQL trackgroups",
+      "url": "https://github.com/cBioPortal/cbioportal/issues/10460",
+      "repo": "cBioPortal/cbioportal",
       "labels": [
         "bug",
-        "good first issue",
-        "UI/UX",
-        "stale",
-        "feature"
+        "good first issue"
       ],
-      "comments": 6,
-      "created_at": "2026-03-09T18:50:47Z",
-      "updated_at": "2026-04-27T04:51:54Z",
+      "comments": 3,
+      "created_at": "2023-11-09T10:12:34Z",
+      "updated_at": "2026-05-11T19:47:49Z",
       "language": null
     },
     {
@@ -236,19 +231,20 @@
       "language": null
     },
     {
-      "org": "cBioPortal for Cancer Genomics",
-      "github": "cBioPortal/cbioportal",
-      "logo": "https://avatars.githubusercontent.com/cBioPortal",
-      "title": "re-enable caching of docker images during build",
-      "url": "https://github.com/cBioPortal/cbioportal/issues/10450",
-      "repo": "cBioPortal/cbioportal",
+      "org": "checkstyle",
+      "github": "checkstyle/checkstyle",
+      "logo": "https://avatars.githubusercontent.com/checkstyle",
+      "title": "Move violation comments above of annotated methods",
+      "url": "https://github.com/checkstyle/checkstyle/issues/19803",
+      "repo": "checkstyle/checkstyle",
       "labels": [
-        "good first issue",
-        "devops"
+        "approved",
+        "miscellaneous",
+        "good first issue"
       ],
-      "comments": 5,
-      "created_at": "2023-10-25T20:29:55Z",
-      "updated_at": "2026-04-11T07:29:18Z",
+      "comments": 0,
+      "created_at": "2026-05-13T10:53:23Z",
+      "updated_at": "2026-05-14T02:43:34Z",
       "language": null
     },
     {
@@ -263,9 +259,9 @@
         "miscellaneous",
         "good first issue"
       ],
-      "comments": 3,
+      "comments": 5,
       "created_at": "2026-04-29T02:48:15Z",
-      "updated_at": "2026-05-05T19:45:08Z",
+      "updated_at": "2026-05-12T13:28:06Z",
       "language": null
     },
     {
@@ -350,23 +346,6 @@
       "comments": 8,
       "created_at": "2025-02-26T08:34:25Z",
       "updated_at": "2026-02-23T07:24:18Z",
-      "language": null
-    },
-    {
-      "org": "DBpedia",
-      "github": "dbpedia/databus",
-      "logo": "https://avatars.githubusercontent.com/dbpedia",
-      "title": "Customize initial 401 Unauthorized page (in a private setup)",
-      "url": "https://github.com/dbpedia/databus/issues/149",
-      "repo": "dbpedia/databus",
-      "labels": [
-        "good first issue",
-        "feature",
-        "stretch task"
-      ],
-      "comments": 9,
-      "created_at": "2023-12-11T10:07:22Z",
-      "updated_at": "2025-12-15T16:22:55Z",
       "language": null
     },
     {
@@ -531,6 +510,22 @@
       "org": "OpenVINO Toolkit",
       "github": "openvinotoolkit/openvino",
       "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
+      "title": "[Good First Issue]: Support aten::set_",
+      "url": "https://github.com/openvinotoolkit/openvino/issues/29714",
+      "repo": "openvinotoolkit/openvino",
+      "labels": [
+        "good first issue",
+        "no_stale"
+      ],
+      "comments": 19,
+      "created_at": "2025-03-25T12:12:33Z",
+      "updated_at": "2026-05-12T09:30:46Z",
+      "language": null
+    },
+    {
+      "org": "OpenVINO Toolkit",
+      "github": "openvinotoolkit/openvino",
+      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
       "title": "[Good First Issue] [ARM] [Debug Caps] : Implement register prints in just-in-time Kernels",
       "url": "https://github.com/openvinotoolkit/openvino/issues/27715",
       "repo": "openvinotoolkit/openvino",
@@ -562,70 +557,53 @@
       "language": null
     },
     {
-      "org": "OpenVINO Toolkit",
-      "github": "openvinotoolkit/openvino",
-      "logo": "https://avatars.githubusercontent.com/openvinotoolkit",
-      "title": "[Good First Issue]: Support aten::Delete aten::str aten::take",
-      "url": "https://github.com/openvinotoolkit/openvino/issues/28707",
-      "repo": "openvinotoolkit/openvino",
-      "labels": [
-        "good first issue",
-        "category: PyTorch FE",
-        "no_stale"
-      ],
-      "comments": 15,
-      "created_at": "2025-01-27T23:12:04Z",
-      "updated_at": "2026-05-05T09:33:33Z",
-      "language": null
-    },
-    {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[BUG]: Blog page is not accessible via sidebar in mobile view",
-      "url": "https://github.com/oppia/oppia/issues/25094",
+      "title": "[BUG]: Unnecessary circles shown in pagination component",
+      "url": "https://github.com/oppia/oppia/issues/24807",
       "repo": "oppia/oppia",
       "labels": [
         "good first issue",
         "bug"
       ],
-      "comments": 4,
-      "created_at": "2026-02-26T14:50:07Z",
-      "updated_at": "2026-05-09T10:28:44Z",
+      "comments": 13,
+      "created_at": "2026-02-06T20:51:22Z",
+      "updated_at": "2026-05-14T05:23:38Z",
       "language": null
     },
     {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[Feature Request]: Enforce the strict type checks",
-      "url": "https://github.com/oppia/oppia/issues/23496",
+      "title": "[BUG]: Dropwdown username long overflow",
+      "url": "https://github.com/oppia/oppia/issues/25552",
       "repo": "oppia/oppia",
       "labels": [
-        "frontend",
         "good first issue",
-        "enhancement",
-        "Hacktoberfest"
+        "bug",
+        "Impact: Medium",
+        "Work: Low"
       ],
-      "comments": 221,
-      "created_at": "2025-09-30T13:46:56Z",
-      "updated_at": "2026-05-08T18:20:56Z",
+      "comments": 13,
+      "created_at": "2026-03-24T20:45:13Z",
+      "updated_at": "2026-05-13T18:43:10Z",
       "language": null
     },
     {
       "org": "Oppia Foundation",
       "github": "oppia/oppia",
       "logo": "https://avatars.githubusercontent.com/oppia",
-      "title": "[BUG]: Acceptance test re-run steps do not work due to server not being shut down",
-      "url": "https://github.com/oppia/oppia/issues/23830",
+      "title": "[BUG]: Navbar layout breaks for longer language translations (text overlapping issue)",
+      "url": "https://github.com/oppia/oppia/issues/25624",
       "repo": "oppia/oppia",
       "labels": [
         "good first issue",
         "bug"
       ],
-      "comments": 69,
-      "created_at": "2025-11-10T13:24:25Z",
-      "updated_at": "2026-05-08T00:17:04Z",
+      "comments": 19,
+      "created_at": "2026-03-28T08:32:28Z",
+      "updated_at": "2026-05-13T16:05:05Z",
       "language": null
     },
     {
@@ -777,19 +755,21 @@
       "language": null
     },
     {
-      "org": "QC-Devs",
-      "github": "theochem/gbasis",
-      "logo": "https://avatars.githubusercontent.com/theochem",
-      "title": "[REQUEST] Direct Support for Basis-Set-Exchange",
-      "url": "https://github.com/theochem/gbasis/issues/209",
-      "repo": "theochem/gbasis",
+      "org": "Rizin",
+      "github": "rizinorg/rizin",
+      "logo": "https://avatars.githubusercontent.com/rizinorg",
+      "title": "Add missing header (`iH`) information to some bin formats",
+      "url": "https://github.com/rizinorg/rizin/issues/5728",
+      "repo": "rizinorg/rizin",
       "labels": [
         "enhancement",
-        "good first issue"
+        "good first issue",
+        "RzBin",
+        "test-required"
       ],
-      "comments": 11,
-      "created_at": "2025-04-04T21:13:08Z",
-      "updated_at": "2026-03-26T12:59:48Z",
+      "comments": 5,
+      "created_at": "2026-01-04T12:15:54Z",
+      "updated_at": "2026-05-12T19:15:05Z",
       "language": null
     },
     {
@@ -827,24 +807,6 @@
       "comments": 3,
       "created_at": "2022-06-14T12:55:00Z",
       "updated_at": "2026-05-06T18:41:06Z",
-      "language": null
-    },
-    {
-      "org": "Rizin",
-      "github": "rizinorg/rizin",
-      "logo": "https://avatars.githubusercontent.com/rizinorg",
-      "title": "Add missing header (`iH`) information to some bin formats",
-      "url": "https://github.com/rizinorg/rizin/issues/5728",
-      "repo": "rizinorg/rizin",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "RzBin",
-        "test-required"
-      ],
-      "comments": 5,
-      "created_at": "2026-01-04T12:15:54Z",
-      "updated_at": "2026-05-06T09:05:03Z",
       "language": null
     }
   ]
